@@ -37,7 +37,7 @@ function ObtenerEpisodios(){
         foreach($Json->results as $episode){
             echo "<div class='card mb-5' style='width: 18rem;'>
             <div class='card-body'>
-            <a href='Personaje.PHP'> <img src='Episodios.jpeg' class='card-img-top'> </a>
+            <a href='personaje.PHP'> <img src='episodios.jpeg' class='card-img-top'> </a>
             <h5 class='card-title'>Episode: $episode->name</h5>
             <p class='card-text'>Air Date: $episode->air_date</p> <br>
             <p class='card-text'>Episode: $episode->episode</p> <br>

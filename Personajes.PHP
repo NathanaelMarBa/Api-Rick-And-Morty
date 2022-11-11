@@ -18,13 +18,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li>
-          <a href="index.php"><img src="Logo.png" alt="100px" width="100px" class="d-inline-block align-text-top" href="ndex.php"></a>
+          <a href="index.php"><img src="logo.png" alt="100px" width="100px" class="d-inline-block align-text-top" href="ndex.php"></a>
         </li>
         <li class="nav-item top">
-          <h4> <a class="nav active a" aria-current="page" href="Personajes.PHP">Personajes</a> </h4>
+          <h4> <a class="nav active a" aria-current="page" href="personajes.PHP">Personajes</a> </h4>
         </li>
         <li class="nav-item top">
-          <h4> <a class="nav active a" href="Capitulos.PHP">  Capitulos</a> </h4>
+          <h4> <a class="nav active a" href="capitulos.PHP">  Capitulos</a> </h4>
         </li>
       </ul>
     </div>
@@ -35,7 +35,7 @@
         <div class="container text-end ">
             <div class="row justify-content-end">
                 <?php
-                require('Funciones.PHP');
+                require('funciones.PHP');
                 ObtenerPersonajes();
                 ?>
             </div>
