@@ -18,7 +18,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li>
-          <a href="Index.php"><img src="Logo.png" alt="100px" width="100px" class="d-inline-block align-text-top" href="Index.php"></a>
+          <a href="index.php"><img src="Logo.png" alt="100px" width="100px" class="d-inline-block align-text-top" href="ndex.php"></a>
         </li>
         <li class="nav-item top">
           <h4> <a class="nav active a" aria-current="page" href="Personajes.PHP">Personajes</a> </h4>
