@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+h3{
+    color:#fff;
+}
+.fondo{
+    margin-right: 300px;
+}
+footer{
+    width: 100%;
+    background: #3c3c3c;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color: gray;
+}
+.a:hover{
+    color: #1EFC1E;
+    margin-top: auto;
+}
+.navbar{
+    background: #424342;
+}
+.Main{
+    text-align: center;
+
+}
+.top{
+    margin-left: 10px;
+    margin-top: 12px;
+}
+.central{
+    display: flex;
+}
+
+.divi{
+    width: 100%;
+    color: #1EFC1E;
+    text-align: center;
+}
+.text{
+    color: #fff;
+    text-align: center;
+    background-color: #000000;
+}
+.card{
+    display: flex;
+    margin-right: 30px;
+}
+.principal{
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/888/76/874/rick-and-morty-cartoon-adult-swim-minimalism-wallpaper-preview.jpg");
+}
+.Personajes{
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/888/76/874/rick-and-morty-cartoon-adult-swim-minimalism-wallpaper-preview.jpg");
+    display: flex;
+}
